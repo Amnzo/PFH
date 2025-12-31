@@ -100,7 +100,7 @@ DATA_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5 Mo
 
 
 
-# Types de fichiers autorisés
+# Types de fichiers autorisés ...
 ALLOWED_UPLOAD_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.pdf']
 
 # CSRF trusted origins (pour le développement local)
