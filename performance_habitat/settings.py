@@ -98,6 +98,8 @@ CONTACT_EMAIL = 'performancehabitat29@gmail.com'  # Email qui recevra les demand
 FILE_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5 Mo
 DATA_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5 Mo
 
+
+
 # Types de fichiers autorisés
 ALLOWED_UPLOAD_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.pdf']
 
